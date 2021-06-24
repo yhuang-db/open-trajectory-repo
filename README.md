@@ -1,5 +1,5 @@
 # open-trajectory-repo
-A open repository for trajectory data/algorithm/systems
+An open repository for trajectory data/algorithm/systems
 
 - [open-trajectory-repo](#open-trajectory-repo)
   - [Data](#data)
